@@ -2,6 +2,10 @@
 
 React.js, Typescript
 
+<img width="1435" alt="Screenshot 2022-06-28 at 22 55 06" src="https://user-images.githubusercontent.com/3728303/176287236-ce083b4c-7a5b-43fd-a719-f6c592f4126a.png">
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
